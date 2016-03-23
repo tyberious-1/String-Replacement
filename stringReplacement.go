@@ -1,7 +1,7 @@
 package main
 // Program is an excercise to find and replace words in a string.
 // Author: TS Burns
-
+// pending updates: remove static info and get info from user/file.
 import "fmt"
 import "strings"
 
